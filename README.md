@@ -3,7 +3,7 @@
 
 | ![Alt Text](img/gif022.gif) | `Leandro Miguel Santos Pereira, vulgo Alemão`</br>`22/02/1991`</br>`Taubaté - SP`</p>`Graduado em Engenharia Civil`<br>`Cursando Técnico Superior em Análise e Desenvolvimento de Sistemas`</br>`Desenvovedor Front-end na Seidor Digital` <br> `Cultivando experiências e boas amizades.`<br>`Entusiasta tecnológico, curioso por natureza, santista com menos de 60 anos e filho do Pai Eterno!`<br> |
 | :-------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-  <h2 align="center" style="font-size:11px">
+  <h2 style="font-size:11px" align="center">
     <img height="80" src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/java/java-original.svg alt="Java"/>
     <img height="60" src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/git/git-original.svg alt="Git"/>
     <img height="60" src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/javascript/javascript-original.svg alt="JS"/>
