@@ -12,7 +12,7 @@
     <a target="_blank"href="https://github.com/leandro-miguel/ABAP" alt="My repository ABAP">
     <img height="60" src=https://logowiki.net/wp-content/uploads/imgp/abap-Logo-1-3323.jpg alt="ABAP"/></a>
     <img height="60" src=https://sap.github.io/ui5-tooling/images/UI5_logo_wide.png alt="Ui5"/></br></h2>
-    <font size="1">clique nos ícones para sua navegação
+    <font size="1"><p align="center">clique nos ícones para sua navegação
 
 --------
 <p align="center">
@@ -24,5 +24,3 @@
 
   <a target="_blank" href="https://www.instagram.com/leandro_miguel_pereira22/" alt="Instagram">
   <img src="https://img.shields.io/badge/-instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/></a>
-  </h2>
-  
