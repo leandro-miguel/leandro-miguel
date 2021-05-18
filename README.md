@@ -15,12 +15,12 @@
 ----------
 <p align="center">
   <a target="_blank"href="mailto:miguel.apmbb@gmail.com" alt="Outlook">
-  <img src="https://img.shields.io/badge/-miguel.apmbb@hotmail.com-0072c6?style=flat-square&labelColor=0072c6&logo=gmail&logoColor=white&link="miguel.apmbb@gmail.com" /></a> 
+  <img src="https://img.shields.io/badge/-e-mail-0072c6?style=flat-square&labelColor=0072c6&logo=gmail&logoColor=white&link="miguel.apmbb@gmail.com" /></a> 
 
   <a target="_blank" href="https://www.linkedin.com/in/leandropereiraa/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-leandropereiraa-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/-linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
   <a target="_blank" href="https://www.instagram.com/leandro_miguel_pereira22/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-leandro_miguel_pereira22-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/-instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/></a>
 
 
