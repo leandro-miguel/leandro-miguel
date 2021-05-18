@@ -5,7 +5,6 @@
 <h2 align="center" style="color: #70d3d4; font-family: courier new">
 Conhecimento Básico </br>
     <img height="80" src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/java/java-original.svg alt="Java"/>
-    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="CSharp"/>
     <img height="60" src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/git/git-original.svg alt="Git"/>
     <img height="60" src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/javascript/javascript-original.svg alt="JS"/>
     <img height="60" src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/linux/linux-original.svg alt="Linux"/>
