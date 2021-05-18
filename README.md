@@ -1,8 +1,8 @@
 # Carregando  ![Alt Text](img/lazyload.gif)
 
 
-| ![Alt Text](img/gif022.gif) | `Dados Iniciais`</p>`Nome: Leandro Pereira`</br>`Nascimento: 22/02/1991`</br>`Natural: Piquete - São Paulo`</br>`Atualmente: Taubaté - SP`</p>`Graduado em Engenharia Civil`</br>` e cursando Técnico Superior em Análise e desenvolvimento de Sistemas`</br>` pela Universidade de Taubaté.  Desenvovedor Front-end na Seidor Digital` |
-| --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Alt Text](img/gif022.gif) | `Dados Iniciais`</p>`Leandro Pereira`</br>`22/02/1991`</br>`Atualmente: Taubaté - SP`</p>`Graduado em Engenharia Civil`</br>` e cursando Técnico Superior em Análise e desenvolvimento de Sistemas`</br>` pela Universidade de Taubaté.  Desenvovedor Front-end na Seidor Digital` |
+| --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 <h2 align="center" style="color: #70d3d4; font-family: courier new">
 Conhecimento Básico </br>
     <img height="80" src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/java/java-original.svg alt="Java"/>
