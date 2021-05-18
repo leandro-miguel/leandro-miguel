@@ -1,7 +1,7 @@
 # <span style="color: #70d3d4">Carregando  ![Alt Text](img/lazyload.gif)</span>
 
-| ![Alt Text](img/gif03.gif) | <h2 align="center" style="color: #70d3d4; font-family: courier new">Dados Iniciais</h2><h3 style="color: #70d3d4; font-family: courier new" >Nome: Leandro Pereira</br>Nascimento: 22/02/1991</br>Natural: Piquete - São Paulo</br>Atualmente: Taubaté - SP</p>Graduado em Engenharia Civil</br> e cursando Técnico Superior em Análise e desenvolvimento de Sistemas</br> pela Universidade de Taubaté. </h2> <h3 align="center" style="color: #70d3d4; font-family: courier new">Aspira a programador |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Alt Text](img/gif03.gif) | Dados Iniciais</h2>Nome: Leandro Pereira</br>Nascimento: 22/02/1991</br>Natural: Piquete - São Paulo</br>Atualmente: Taubaté - SP</p>Graduado em Engenharia Civil</br> e cursando Técnico Superior em Análise e desenvolvimento de Sistemas</br> pela Universidade de Taubaté.  Desenvovedor Front-end na Seidor Digital |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 <h2 align="center" style="color: #70d3d4; font-family: courier new">
 Conhecimento Básico </br>
     <img height="80" src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/java/java-original.svg alt="Java"/>
@@ -22,4 +22,5 @@ Conhecimento Básico </br>
 
   <a target="_blank" href="https://www.instagram.com/leandro_miguel_pereira22/" alt="Instagram">
   <img src="https://img.shields.io/badge/-leandro_miguel_pereira22-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/></a>
+
 
