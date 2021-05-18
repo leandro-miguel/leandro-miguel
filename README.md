@@ -2,7 +2,7 @@
 
 
 | ![Alt Text](img/gif022.gif) | `Leandro Pereira`</br>`22/02/1991`</br>`Taubaté - SP`</p>`Graduado em Engenheiro Civil`</br>`Técnico Superior em Análise e Desenvolvimento de Sistemas`</br>`Desenvovedor Front-end na Seidor Digital` |
-| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| :-------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 <h2 align="center" style="color: #70d3d4; font-family: courier new">
     <img height="80" src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/java/java-original.svg alt="Java"/>
     <img height="60" src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/git/git-original.svg alt="Git"/>
