@@ -12,7 +12,7 @@
     <a target="_blank"href="https://github.com/leandro-miguel/ABAP" alt="My repository ABAP">
     <img height="60" src=https://logowiki.net/wp-content/uploads/imgp/abap-Logo-1-3323.jpg alt="ABAP"/></a>
     <img height="60" src=https://sap.github.io/ui5-tooling/images/UI5_logo_wide.png alt="Ui5"/></br></h2>
-    <font size="1"><p align="center">clique nos ícones para sua navegação
+    <font size="-5"><p align="center">clique nos ícones para sua navegação
 
 --------
 <p align="center">
