@@ -11,8 +11,7 @@
     <img height="60" src=https://desenvolvimentoaberto.files.wordpress.com/2016/11/logoazuresql.png alt="Sql"/>
     <a target="_blank"href="https://github.com/leandro-miguel/ABAP" alt="My repository ABAP">
     <img height="60" src=https://logowiki.net/wp-content/uploads/imgp/abap-Logo-1-3323.jpg alt="ABAP"/></a>
-    <img height="60" src=https://sap.github.io/ui5-tooling/images/UI5_logo_wide.png alt="Ui5"/></br>
-    Clique nos ícones para sua navegação</h2>
+    <img height="60" src=https://sap.github.io/ui5-tooling/images/UI5_logo_wide.png alt="Ui5"/></br> Clique nos ícones para sua navegação</h2>
 
 --------
 <p align="center">
