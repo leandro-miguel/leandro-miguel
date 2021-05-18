@@ -22,5 +22,5 @@
 
   <a target="_blank" href="https://www.instagram.com/leandro_miguel_pereira22/" alt="Instagram">
   <img src="https://img.shields.io/badge/-instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/></a>
-
-
+ 
+  ![](https://img.shields.io/vscode-marketplace/v/thiagoguaru.jwtintegrator.svg)
