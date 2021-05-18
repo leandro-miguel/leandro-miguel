@@ -3,7 +3,7 @@
 
 | ![Alt Text](img/gif022.gif) | `Leandro Miguel Santos Pereira, vulgo Alemão`</br>`22/02/1991`</br>`Taubaté - SP`</p>`Graduado em Engenharia Civil`<br>`Cursando Técnico Superior em Análise e Desenvolvimento de Sistemas`</br>`Desenvovedor Front-end na Seidor Digital` <br> `Cultivando experiências e boas amizades.`<br>`Entusiasta tecnológico, curioso por natureza, santista com menos de 60 anos e filho do Pai Eterno!`<br> |
 | :-------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-  <h2 align="center"><font size="-2">
+  <h2 align="center"><p style="font-size:11px">
     <img height="80" src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/java/java-original.svg alt="Java"/>
     <img height="60" src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/git/git-original.svg alt="Git"/>
     <img height="60" src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/javascript/javascript-original.svg alt="JS"/>
@@ -12,7 +12,7 @@
     <a target="_blank"href="https://github.com/leandro-miguel/ABAP" alt="My repository ABAP">
     <img height="60" src=https://logowiki.net/wp-content/uploads/imgp/abap-Logo-1-3323.jpg alt="ABAP"/></a>
     <img height="60" src=https://sap.github.io/ui5-tooling/images/UI5_logo_wide.png alt="Ui5"/></br>
-    Clique nos ícones para sua navegação<h2>
+    Clique nos ícones para sua navegação
 
 --------
 <p align="center">
