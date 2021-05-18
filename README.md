@@ -1,4 +1,4 @@
-# Atualizando  ![Alt Text](img/lazyload.gif)
+# Trabalhando  ![Alt Text](img/lazyload.gif)
 
 
 | ![Alt Text](img/gif022.gif) | `Leandro Miguel Santos Pereira, vulgo Alemão`</br>`22/02/1991`</br>`Taubaté - SP`</p>`Graduado em Engenharia Civil`<br>`Cursando Técnico Superior em Análise e Desenvolvimento de Sistemas`</br>`Desenvovedor Front-end na Seidor Digital` <br> `Cultivando experiências e boas amizades.`<br>`Entusiasta tecnológico, curioso por natureza e santista com menos de 60 anos`<br> |
