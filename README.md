@@ -24,6 +24,6 @@
   <img src="https://img.shields.io/badge/-instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/></a>
                                                                                                                              
   <a target="_blank" href="https://www.instagram.com/leandro_miguel_pereira22/" alt="Certificates">
- <img src="https://img.shields.io/badge/-certificates-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/-certificates-DF0174?style=flat-square&labelColor=DF0174"/></a>
  
 
