@@ -14,8 +14,6 @@
     <img height="60" src=https://sap.github.io/ui5-tooling/images/UI5_logo_wide.png alt="Ui5"/></br> 
     </h2>
 
-
-
 <p align="center">
   <a target="_blank"href="mailto:miguel.apmbb@gmail.com" alt="Outlook">
   <img src="https://img.shields.io/badge/-email-0072c6?style=flat-square&labelColor=0072c6&logo=gmail&logoColor=white&link="miguel.apmbb@gmail.com" /></a> 
