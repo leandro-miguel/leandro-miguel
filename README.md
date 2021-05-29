@@ -14,7 +14,7 @@
     <img height="60" src=https://logowiki.net/wp-content/uploads/imgp/abap-Logo-1-3323.jpg alt="ABAP"/></a>
     <img height="60" src=https://sap.github.io/ui5-tooling/images/UI5_logo_wide.png alt="Ui5"/>
     <a target="_blank"href="https://github.com/leandro-miguel/DART" alt="My repository DART">
-    <img height="60" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg alt="Flutter"/></a></br> 
+    <img height="60" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg alt="DART"/></a></br> 
     </h2>
 
 <p align="center">
