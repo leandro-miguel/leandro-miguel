@@ -1,7 +1,7 @@
 # Coding  ![Alt Text](img/lazyload.gif)
 
 
-| ![Alt Text](img/gif022.gif) | `Leandro Miguel Santos Pereira, vulgo Alemão`</br>`22/02/1991`</br>`Taubaté - SP`</p>`Graduado em Engenharia Civil`<br>`Cursando Técnico Superior em Análise e Desenvolvimento de Sistemas`</br>`Desenvovedor Front-end na Seidor Digital` <br> `Cultivando experiências e boas amizades.`<br>`Entusiasta tecnológico, curioso por natureza, santista com menos de 60 anos e filho do Pai Eterno!`<br> |
+| ![Alt Text](img/gif022.gif) | `Leandro Miguel Santos Pereira, vulgo Alemão`</br>`22/02/1991`</br>`Taubaté - SP`</p>`Graduado em Engenharia Civil`<br>`Cursando Técnico Superior em Análise e Desenvolvimento de Sistemas`</br>`Desenvovedor Front-end na Seidor Digital` <br> `Cultivando experiências e boas amizades.`<br>`Entusiasta tecnológico, curioso por natureza, santista com menos de 60 anos e filho do Pai Eterno!` |
 | :-------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
   <h2 align="center">
     <a target="_blank"href="https://github.com/leandro-miguel/JAVA" alt="My repository Java">
