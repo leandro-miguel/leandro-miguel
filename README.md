@@ -7,7 +7,7 @@
     <a target="_blank"href="https://github.com/leandro-miguel/JAVA" alt="My repository Java">
     <img height="80" src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/java/java-original.svg alt="Java"/></a>
     <img height="60" src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/git/git-original.svg alt="Git"/>
-    <img height="60" src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/javascript/javascript-original.svg alt="JS"/>
+    <img height="60" src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/vuejs/vuejs-original.svg alt="VUE"/>
     <img height="60" src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/linux/linux-original.svg alt="Linux"/>
     <img height="60" src=https://desenvolvimentoaberto.files.wordpress.com/2016/11/logoazuresql.png alt="Sql"/>
     <a target="_blank"href="https://github.com/leandro-miguel/ABAP" alt="My repository ABAP">
