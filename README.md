@@ -3,16 +3,18 @@
 
 | ![Alt Text](img/gif022.gif) | `Leandro Miguel Santos Pereira, vulgo Alemão`</br>`22/02/1991`</br>`Taubaté - SP`</p>`Graduado em Engenharia Civil`<br>`Cursando Técnico Superior em Análise e Desenvolvimento de Sistemas`</br>`Desenvovedor Front-end na Seidor Digital` <br> `Cultivando experiências e boas amizades.`<br>`Entusiasta tecnológico, curioso por natureza, santista com menos de 60 anos e filho do Pai Eterno!` |
 | :-------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+<h1 align="center">Interesses e Conhecimentos</h1>
   <h2 align="center">
-    <a target="_blank"href="https://github.com/leandro-miguel/JAVA" alt="My repository Java">
-    <img height="80" src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/java/java-original.svg alt="Java"/></a>
-    <!-- <img height="60" src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/git/git-original.svg alt="Git"/> -->
-     <a target="_blank"href="https://github.com/leandro-miguel/VUE" alt="My repository VUE">
-    <img height="60" src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/vuejs/vuejs-original.svg alt="VUE"/></a>
-    <!-- <img height="60" src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/linux/linux-original.svg alt="Linux"/> -->
-    <!-- <img height="60" src=https://desenvolvimentoaberto.files.wordpress.com/2016/11/logoazuresql.png alt="Sql"/> -->
     <a target="_blank"href="https://github.com/leandro-miguel/DART" alt="My repository DART">
     <img height="60" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg alt="DART"/></a>
+    <a target="_blank"href="https://github.com/leandro-miguel/JAVA" alt="My repository Java">
+    <img height="80" src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/java/java-original.svg alt="Java"/></a>
+    <img height="60" src=https://cdn.cdnlogo.com/logos/c/27/c.svg alt="C#"/>
+    <!-- <img height="60" src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/git/git-original.svg alt="Git"/> -->
+     <!-- <a target="_blank"href="https://github.com/leandro-miguel/VUE" alt="My repository VUE">
+    <img height="60" src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/vuejs/vuejs-original.svg alt="VUE"/></a> -->
+    <!-- <img height="60" src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/linux/linux-original.svg alt="Linux"/> -->
+    <img height="60" src=https://desenvolvimentoaberto.files.wordpress.com/2016/11/logoazuresql.png alt="Sql"/>
     <a target="_blank"href="https://github.com/leandro-miguel/UI5" alt="My repository UI5">
     <img height="60" src=https://sap.github.io/ui5-tooling/images/UI5_logo_wide.png alt="Ui5"/></a>
      <a target="_blank"href="https://github.com/leandro-miguel/ABAP" alt="My repository ABAP">
@@ -26,5 +28,5 @@
   <a target="_blank" href="https://www.linkedin.com/in/leandropereiraa/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
-  <a target="_blank" href="https://www.instagram.com/leandro_miguel_pereira22/" alt="Instagram">
+  <a target="_blank" href="https://www.instagram.com/leandro_miguel_02/" alt="Instagram">
   <img src="https://img.shields.io/badge/-instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/></a>
