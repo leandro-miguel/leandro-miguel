@@ -4,9 +4,18 @@
 |![Alt Text](img/gif022.gif) | `Leandro Miguel dos Santos Pereira`</br>`22/02/1991`</br>`Taubaté - SP`</p>`Tecnólogo em Análise e Desenvolvimento de Sistemas (2021)`</br>`Desenvovedor...` <br>`Entusiasta tecnológico` <br> `Resiliente e adaptativo` |
 | :-------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 <h1 align="center">Projetos</h1>
+<a><a target="_blank"href="https://github.com/leandro-miguel/JAVA" alt="My repository Java">
+<img src=https://img.shields.io/badge/JAVA-Sistema_de_Sorteio_através_de_um_txt-red.svg style="max-width: 100%;"></a>
+<a><a target="_blank"href="https://github.com/leandro-miguel/UI5" alt="Projeto OPEN UI5">
+<img src=https://img.shields.io/badge/UI5-Projeto_Open_Business-blue.svg style="max-width: 100%;"></a>
+
+<br><br>
+
+<h1 align="center">Conhecimentos</h1>
   <h2 align="center">
-    <a target="_blank"href="https://github.com/leandro-miguel/JAVA" alt="My repository Java">
-    <img height="80" src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/java/java-original.svg alt="Java"/></a>
-    <a target="_blank"href="https://github.com/leandro-miguel/UI5" alt="My repository UI5">
-    <img height="60" src=https://sap.github.io/ui5-tooling/images/UI5_logo_wide.png alt="Ui5"/></a>
+    <img height="80" src=https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/java/java-original.svg alt="Java"/>
+    <img height="60" src=https://sap.github.io/ui5-tooling/images/UI5_logo_wide.png alt="Ui5"/>
+    <img height="60" src=//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png alt="Ui5"/>
     </h2>
+
+  
