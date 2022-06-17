@@ -5,9 +5,9 @@
 | :-------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 <h1 align="center">Projetos</h1>
 <a><a target="_blank"href="https://github.com/leandro-miguel/JAVA" alt="My repository Java">
-<img src=https://img.shields.io/badge/JAVA-Sistema_de_Sorteio_através_de_um_txt-red.svg style="max-width: 100%;"></a>
+<img src=https://img.shields.io/badge/JAVA-Sistema_de_Sorteio_através_de_um_txt-red.svg style="max-width: 50%;"></a>
 <a><a target="_blank"href="https://github.com/leandro-miguel/UI5" alt="Projeto OPEN UI5">
-<img src=https://img.shields.io/badge/UI5-Projeto_Open_Business-blue.svg style="max-width: 100%;"></a>
+<img src=https://img.shields.io/badge/UI5-Projeto_Open_Business-blue.svg style="max-width: 50%;"></a>
 
 <br><br>
 
