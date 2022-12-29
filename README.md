@@ -1,7 +1,7 @@
 # Coding  ![Alt Text](img/lazyload.gif)
 
 
-|![Alt Text](img/gif022.gif) | `Leandro Miguel dos Santos Pereira`</br>`22/02/1991`</br>`Taubaté - SP`</p>`Tecnólogo em Análise e Desenvolvimento de Sistemas (2021)`</br>`Desenvovedor...` <br>`Entusiasta tecnológico` <br> `Resiliente e adaptativo` |
+|![Alt Text](img/gif022.gif) | `Leandro Miguel dos Santos Pereira`</br>`22/02/1991`</br>`Taubaté - SP`</p>`Tecnólogo em Análise e Desenvolvimento de Sistemas (2021)`</br>`Desenvolvedor Full Stack` <br>`Cloud Computer|Integrations|SAP BTP` <br> `Resiliente e adaptativo` |
 | :-------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 <h1 align="center">Projetos</h1>
 <a><a target="_blank"href="https://github.com/leandro-miguel/JAVA" alt="Projeto básico Java">
